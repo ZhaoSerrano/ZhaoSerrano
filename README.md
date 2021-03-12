@@ -15,7 +15,7 @@
 ---
 ### Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-QianyuZhaoSerrano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zhaoserrano/)](www.linkedin.com/in/zhaoserrano/)
+[![Linkedin Badge](https://img.shields.io/badge/-QianyuZhaoSerrano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/qianyu-zhao-serrano-57aa86b4/)](https://www.linkedin.com/in/qianyu-zhao-serrano-57aa86b4/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qianyuzhaoflora.com)](mailto:qianyuzhaoflora@gmail.com)
 
 
