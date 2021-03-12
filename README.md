@@ -2,7 +2,7 @@
 
 <img align='right' src="https://www.eschoolnews.com/files/2018/03/coding1.jpg" width="230">
 
-### Hi there I am Yuling Gu👋
+### Hi there I am Qianyu Zhao-Serrano👋
 ### Graduate with Master in Analytics from University of Chicago
 
 ---
@@ -15,8 +15,8 @@
 ---
 ### Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-YulingGu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuling-gu-b61614104/)](https://www.linkedin.com/in/yuling-gu-b61614104/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:betty19950330@gmail.com)](mailto:betty19950330@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-QianyuZhaoSerrano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zhaoserrano/)](www.linkedin.com/in/zhaoserrano/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qianyuzhaoflora.com)](mailto:qianyuzhaoflora@gmail.com)
 
 
 ---
@@ -42,20 +42,11 @@
 
 ### Data Science Projects:
 
-- **Google Analytics Store Customer Revenue Prediction**
+- **Peering with Airbnb**
   - [code](https://github.com/yuling0330/Google-Store-Analytics-Transactions-Revenue-Prediction/tree/master/notebook)
   - [Presentation](https://github.com/yuling0330/Google-Store-Analytics-Transactions-Revenue-Prediction/blob/master/presentation/Customer_Revenue_Prediction_Presentation.pdf)
-- **Blindness Prediction**
-  - [code](https://github.com/yuling0330/Blindness_Detection_Image_Recognition/tree/master/notebook)
-  - [Presentation](https://github.com/yuling0330/Blindness_Detection_Image_Recognition/blob/master/presentation/blindess_detection_presentation.pdf)
-- **ICU 24 hour Survival Prediction**
-  - [code](https://github.com/yuling0330/icu_24hour_survival_analysis/tree/master/notebook)
-  - [Presentation](https://github.com/yuling0330/icu_24hour_survival_analysis/tree/master/presentation)
- - **Yelp Recommedation System**
-   - [code](https://github.com/yuling0330/yelp-review-big-data/tree/master/notebook)
-   - [Presentation](https://github.com/yuling0330/yelp-review-big-data/tree/master/presentation)
 
 ---
 
 ### Github Stats:
-<img align="left" alt="Yuling's github Stats" src="https://github-readme-stats.vercel.app/api?username=yuling0330&show_icons=true&hide_border=true" />
+<img align="left" alt="ZhaoSerrano's github Stats" src="https://github-readme-stats.vercel.app/api?username=zhaoserrano&show_icons=true&hide_border=true" />
