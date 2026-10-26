@@ -2,58 +2,73 @@
 
 **Qianyu (Q) Zhao-Serrano** · Chicago · she/her
 
-By day I'm a full-stack data professional: experimentation, analytics engineering, and AI. The rest of the time I'm a mom of three. One of my kids has ADHD, and I'm using the tools I use at work, AI and data, to help him do well in school.
+I'm a mom of three, and I work with data and AI. Right now I'm putting both to work on one goal: helping my son, who has ADHD, grow up confident, brave, curious about the world, and happy.
 
 > 左手工作，右手带娃，中间是时光机。<br>
 > Work in my left hand, kids in my right, and a time machine in the middle.
 
 ---
 
-### 🧪 What I'm building now: [My Kid Has ADHD: Learning Lab](https://github.com/ZhaoSerrano/my-kid-has-adhd)
+### 💛 Why I'm building this
+
+We're a family of three languages: English, Chinese, and Spanish. My son didn't really talk until he was 4.
+
+So we started speech therapy and occupational therapy. I sat in on the sessions, took notes, and read everything I could about how kids with ADHD and autism learn. The lessons from that time are simple, but they're easy to lose at a kitchen table at 7 p.m.:
+
+- Keep it short. Then let them move.
+- Never make a kid who doesn't talk much prove things with words. Let them point.
+- Start with what they love. Interest opens the door.
+- When they get it wrong, show them why, kindly, and try again.
+- Celebrate every small win, out loud.
+
+Then school tests started coming home, and worksheets weren't working for us. So I took what I learned from his therapists, what I've learned from years of working with him, and what I know from my day job in data and AI, and I built him something.
+
+---
+
+### 🧪 [My Kid Has ADHD: Learning Lab](https://github.com/ZhaoSerrano/my-kid-has-adhd)
 
 **Free, tap-to-answer test practice built from your kid's actual study guide. Designed for kids with ADHD.**
 👉 [Open the app](https://zhaoserrano.github.io/my-kid-has-adhd/) · [See the code](https://github.com/ZhaoSerrano/my-kid-has-adhd)
 
-**Why.** It started with one kindergarten study guide and one question: *how do I help my son get ready for the Unit 3 Reading test?* Worksheets weren't working. He needed short rounds, everything read aloud, answers he could tap, and pictures of the things he loves. When he got something wrong, he needed to hear *why*, and then see it again until it stuck. Nothing I found did all of that, so I built it, and I made it free for other parents.
+Every piece of it comes from something we lived:
 
-**How.** It's the same playbook I use at work, pointed at a kindergartner:
+| What he needed | What Learning Lab does |
+|---|---|
+| A way to answer without having to talk | Every answer is a tap, and every question is read aloud |
+| Short bursts, then movement | 3–5 minute rounds with stars and wiggle breaks ("Jump 5 times!") |
+| His favorite things | Cars, robots, dinosaurs, space, and more swap into the math and coding games |
+| To understand a mistake, not just see an X | A wrong answer shows the right one and explains *why* in one kid-sized sentence |
+| Practice on what's hard, not what he already knows | Missed questions come back, and mastered ones fade out |
+| His three languages | Chinese and Spanish lessons alongside English |
+| To be ready for *his* test | Snap the teacher's study guide, and an AI turns it into a practice test |
 
-- **Snap the study guide, get a practice test.** A parent photographs the teacher's study guide, pastes it into Claude, ChatGPT, or Gemini with a ready-made prompt, and pastes the result back. The app checks it and builds a test with a countdown to test day.
-- **Practice what's weak, skip what's known.** Every item moves through spaced-practice boxes. Missed questions come back in the same round and in later sessions, and the daily mix leans toward weak skills.
-- **Learn, don't just score.** A wrong answer shows the right one and explains it in one kid-level sentence, read aloud.
-- **His favorite things.** Cars, robots, dinosaurs, space, castles, animals, or sports swap into the math and coding games.
-- **Private by design.** No backend, no accounts, no tracking. Progress stays on the device. The optional natural voice is an open-source AI model that runs right in the browser.
-- **A whole kindergarten year.** 10 subjects and 50+ skills, mapped to Indiana and Common Core standards.
+It's free, it has no ads or accounts, and nothing leaves your device. It's practice, not therapy, and it doesn't replace the people who help our kids.
 
 Parents: if you try it, the [2-minute feedback form](https://github.com/ZhaoSerrano/my-kid-has-adhd/issues/new?template=parent-feedback.yml) asks the two questions I care about most. Did your kid pass the test? Did they choose to play?
 
 ---
 
-### 💼 At work
+### 🌱 What's next
 
-- **Now: Product Data Analyst at NinjaTrader.** I own analytics for the new-account conversion funnel: analytics engineering, experiment design and measurement, and decision support for leadership. I built a Python measurement platform with AI agent skills that writes experiment readouts automatically.
-- **Capital One, Business Analysis Manager.** Marketing and analytics strategy for card partnerships, valuation and forecasting models, and A/B-tested campaigns that became business as usual.
-- **project44, Technical Program Manager.** Took SaaS and API products into Asia.
-- **Hatch, Consultant.** Data-driven strategy for energy and automotive clients.
-- **Cleveland-Cliffs, Senior Business Analyst and Financial Reporting Manager.** FP&A for a $1.2B revenue portfolio, and led the move to SAP HANA.
-- **Earlier:** Polsky Center at UChicago, JLL, and Accenture in Beijing.
-
-**Education:** MS in Applied Data Science, University of Chicago · MBA, Indiana University Northwest · BBA, Capital University of Economics and Business
-
-**Toolbox:** Python · SQL · dbt · BigQuery · Snowflake · Databricks · Statsig · LaunchDarkly · Heap · QuickSight · Power BI · Tableau · R · Claude Code
+- **Grow with him.** Kindergarten now, then first grade, and beyond.
+- **Make it fit more kids.** More grades, more states' standards, and more languages, shaped by what parents tell me.
+- **Help him find his strengths.** Not just practice for tests. I want tools that notice what lights him up and help him build on it.
+- **Share what works.** Everything is open source, so other parents and teachers can use it, change it, and make it better.
 
 ---
 
-### 🌈 A little more color
+### 🎨 Off the clock
 
-- My path so far: accounting in Beijing, then finance at a steel mill in Indiana, then fintech experimentation in Chicago. I like the problems where the numbers have to turn into a decision.
-- In 2021 this page said I was learning robot path planning. Today my robot path planning is a kindergarten coding game where a race car finds its way to the finish line.
-- Learning Lab speaks English, Chinese, and Spanish, just like our house.
-- Still a puzzle lover and a traveler, now with three extra passengers.
+- Building things with AI, mostly at the kitchen table after bedtime.
+- Puzzles of every kind. Raising a kid with ADHD might be the best one yet.
+- Travel, now with three extra passengers.
+- In 2021 this page said I was learning robot path planning. Today my robot path planning is a coding game where a race car finds its way to the finish line, and my son is the one giving directions.
 
 ---
 
 ### 🤝 Say hi
+
+By day I work in data: experimentation, analytics engineering, and AI. You can find that side of me on LinkedIn.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zhaoserrano-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhaoserrano/)
 [![Email](https://img.shields.io/badge/Email-qianyuzhaoflora%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:qianyuzhaoflora@gmail.com)
