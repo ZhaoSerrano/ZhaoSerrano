@@ -4,7 +4,7 @@
 
 By day I'm a full-stack data professional: experimentation, analytics engineering, and AI. The rest of the time I'm a mom of three. One of my kids has ADHD, and I'm using the tools I use at work, AI and data, to help him do well in school.
 
-> 左手工作，右手带娃，中间是时光机。
+> 左手工作，右手带娃，中间是时光机。<br>
 > Work in my left hand, kids in my right, and a time machine in the middle.
 
 ---
