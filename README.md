@@ -30,6 +30,13 @@ Then school tests started coming home, and worksheets weren't working for us. So
 **Free, tap-to-answer test practice built from your kid's actual study guide. Designed for kids with ADHD.**
 👉 [Open the app](https://zhaoserrano.github.io/my-kid-has-adhd/) · [See the code](https://github.com/ZhaoSerrano/my-kid-has-adhd)
 
+**🎯 The part I love most: it's built around a finish line.** This isn't open-ended "study time." Kids with ADHD do best with a clear goal, a clear start, and a clear stop. So Learning Lab is built around the real test coming home from school:
+
+- **A real goal.** Snap the teacher's study guide, and it becomes a practice test with a countdown on the home screen: "Test in 3 days."
+- **A clear start and a clear stop.** Each round is 3–5 minutes. Progress dots show how many questions are left, and stars mark the finish.
+- **Results you can see.** A practice test before the big day shows what's ready. The grown-up screen marks every skill "Got it," "Getting there," or "Needs practice," so you know exactly what to work on tonight.
+- **Success means passing the test.** Not minutes spent or worksheets finished. Did they walk into class ready, and walk out proud?
+
 Every piece of it comes from something we lived:
 
 | What he needed | What Learning Lab does |
@@ -40,7 +47,6 @@ Every piece of it comes from something we lived:
 | To understand a mistake, not just see an X | A wrong answer shows the right one and explains *why* in one kid-sized sentence |
 | Practice on what's hard, not what he already knows | Missed questions come back, and mastered ones fade out |
 | His three languages | Chinese and Spanish lessons alongside English |
-| To be ready for *his* test | Snap the teacher's study guide, and an AI turns it into a practice test |
 
 It's free, it has no ads or accounts, and nothing leaves your device. It's practice, not therapy, and it doesn't replace the people who help our kids.
 
