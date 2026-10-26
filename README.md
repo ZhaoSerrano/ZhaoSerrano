@@ -51,6 +51,9 @@ Parents: if you try it, the [2-minute feedback form](https://github.com/ZhaoSerr
 ### 🌱 What's next
 
 - **Grow with him.** Kindergarten now, then first grade, and beyond.
+- **Start earlier, for his younger siblings.** My two younger kids are in preschool. I want a preschool mode that sets them up for real school before it starts: colors, shapes, letters and counting, plus the quieter skills, like naming feelings, following two-step directions, and waiting your turn. All of it through play, in short bursts, with the things they love.
+- **Let each kid learn their way.** Some kids learn by tapping, some by moving, some by hearing it in a song. The app should notice what fits each one and lean into it, so learning keeps feeling like their idea.
+- **Build confidence first.** Lots of small wins, mistakes that feel safe, and pride in trying. A kid who believes "I can figure this out" stays curious.
 - **Make it fit more kids.** More grades, more states' standards, and more languages, shaped by what parents tell me.
 - **Help him find his strengths.** Not just practice for tests. I want tools that notice what lights him up and help him build on it.
 - **Share what works.** Everything is open source, so other parents and teachers can use it, change it, and make it better.
