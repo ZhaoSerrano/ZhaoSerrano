@@ -1,52 +1,60 @@
+### Hi, I'm Q 👋
 
+**Qianyu (Q) Zhao-Serrano** · Chicago · she/her
 
-<img align='right' src="https://www.eschoolnews.com/files/2018/03/coding1.jpg" width="230">
+By day I'm a full-stack data professional: experimentation, analytics engineering, and AI. The rest of the time I'm a mom of three. One of my kids has ADHD, and I'm using the tools I use at work, AI and data, to help him do well in school.
 
-### Hi there I am Qianyu Zhao-Serrano👋
-### Graduate with Master in Analytics from University of Chicago
-
----
- ### A little more about me:
-
-- 🔭 I’m currently looking for entry-level data scientist position
-- 🌱 I’m currently learning Coppelia to achive robotics locolization/path planning
-- ⚡ Fun fact: I like puzzle and travel; willing to learn edge technology
-
----
-### Connect with me:
-
-[![Linkedin Badge](https://img.shields.io/badge/-QianyuZhaoSerrano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/qianyu-zhao-serrano-57aa86b4/)](https://www.linkedin.com/in/qianyu-zhao-serrano-57aa86b4/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qianyuzhaoflora.com)](mailto:qianyuzhaoflora@gmail.com)
-
-
----
-### Language and Tools:
-
-
-<img align="left" alt="Python" width="50px" src="https://www.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" />
-<img align="left" alt="R" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/r-5-283170.png" />
-<img align="left" alt="Tableau" width="50px" src="https://www.thedataschool.co.uk/wp-content/uploads/2017/11/Tableau-Server-Icon.png" />
-<img align="left" alt="GoogleCloudPlatform" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/google-cloud-2038785-1721675.png" />
-<img align="left" alt="GoogleColab" width="50px" src="https://colab.research.google.com/img/colab_favicon_256px.png" />
-<img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<br />
-<br />
+> 左手工作，右手带娃，中间是时光机。
+> Work in my left hand, kids in my right, and a time machine in the middle.
 
 ---
 
-### Data Science Projects:
+### 🧪 What I'm building now: [My Kid Has ADHD: Learning Lab](https://github.com/ZhaoSerrano/my-kid-has-adhd)
 
-- **Peering with Airbnb**
-  - [code](https://github.com/yuling0330/Google-Store-Analytics-Transactions-Revenue-Prediction/tree/master/notebook)
-  - [Presentation](https://github.com/yuling0330/Google-Store-Analytics-Transactions-Revenue-Prediction/blob/master/presentation/Customer_Revenue_Prediction_Presentation.pdf)
+**Free, tap-to-answer test practice built from your kid's actual study guide. Designed for kids with ADHD.**
+👉 [Open the app](https://zhaoserrano.github.io/my-kid-has-adhd/) · [See the code](https://github.com/ZhaoSerrano/my-kid-has-adhd)
+
+**Why.** It started with one kindergarten study guide and one question: *how do I help my son get ready for the Unit 3 Reading test?* Worksheets weren't working. He needed short rounds, everything read aloud, answers he could tap, and pictures of the things he loves. When he got something wrong, he needed to hear *why*, and then see it again until it stuck. Nothing I found did all of that, so I built it, and I made it free for other parents.
+
+**How.** It's the same playbook I use at work, pointed at a kindergartner:
+
+- **Snap the study guide, get a practice test.** A parent photographs the teacher's study guide, pastes it into Claude, ChatGPT, or Gemini with a ready-made prompt, and pastes the result back. The app checks it and builds a test with a countdown to test day.
+- **Practice what's weak, skip what's known.** Every item moves through spaced-practice boxes. Missed questions come back in the same round and in later sessions, and the daily mix leans toward weak skills.
+- **Learn, don't just score.** A wrong answer shows the right one and explains it in one kid-level sentence, read aloud.
+- **His favorite things.** Cars, robots, dinosaurs, space, castles, animals, or sports swap into the math and coding games.
+- **Private by design.** No backend, no accounts, no tracking. Progress stays on the device. The optional natural voice is an open-source AI model that runs right in the browser.
+- **A whole kindergarten year.** 10 subjects and 50+ skills, mapped to Indiana and Common Core standards.
+
+Parents: if you try it, the [2-minute feedback form](https://github.com/ZhaoSerrano/my-kid-has-adhd/issues/new?template=parent-feedback.yml) asks the two questions I care about most. Did your kid pass the test? Did they choose to play?
 
 ---
 
-### Github Stats:
-<img align="left" alt="ZhaoSerrano's github Stats" src="https://github-readme-stats.vercel.app/api?username=zhaoserrano&show_icons=true&hide_border=true" />
+### 💼 At work
+
+- **Now: Product Data Analyst at NinjaTrader.** I own analytics for the new-account conversion funnel: analytics engineering, experiment design and measurement, and decision support for leadership. I built a Python measurement platform with AI agent skills that writes experiment readouts automatically.
+- **Capital One, Business Analysis Manager.** Marketing and analytics strategy for card partnerships, valuation and forecasting models, and A/B-tested campaigns that became business as usual.
+- **project44, Technical Program Manager.** Took SaaS and API products into Asia.
+- **Hatch, Consultant.** Data-driven strategy for energy and automotive clients.
+- **Cleveland-Cliffs, Senior Business Analyst and Financial Reporting Manager.** FP&A for a $1.2B revenue portfolio, and led the move to SAP HANA.
+- **Earlier:** Polsky Center at UChicago, JLL, and Accenture in Beijing.
+
+**Education:** MS in Applied Data Science, University of Chicago · MBA, Indiana University Northwest · BBA, Capital University of Economics and Business
+
+**Toolbox:** Python · SQL · dbt · BigQuery · Snowflake · Databricks · Statsig · LaunchDarkly · Heap · QuickSight · Power BI · Tableau · R · Claude Code
+
+---
+
+### 🌈 A little more color
+
+- My path so far: accounting in Beijing, then finance at a steel mill in Indiana, then fintech experimentation in Chicago. I like the problems where the numbers have to turn into a decision.
+- In 2021 this page said I was learning robot path planning. Today my robot path planning is a kindergarten coding game where a race car finds its way to the finish line.
+- Learning Lab speaks English, Chinese, and Spanish, just like our house.
+- Still a puzzle lover and a traveler, now with three extra passengers.
+
+---
+
+### 🤝 Say hi
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-zhaoserrano-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhaoserrano/)
+[![Email](https://img.shields.io/badge/Email-qianyuzhaoflora%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:qianyuzhaoflora@gmail.com)
+[![Learning Lab](https://img.shields.io/badge/Try-Learning%20Lab-2ea44f?style=flat-square)](https://zhaoserrano.github.io/my-kid-has-adhd/)
